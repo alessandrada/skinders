@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viweport" content="width"
+    <meta http-equiv="x-UA-Compatible" content="IE=edge">
+    <link rel="stylesheet" href="./index.blogkenzietarefa1.css" />
+    <title>Blog da Kenzie</title>
+</head>
+<header>
+    <img src="https://media.graphassets.com/eLnDz54SoOXXXlREnoG3?_gl=1*1u2x7cv*_ga*ODI5NDM3NC4xNjgzNTAwMTg3*_ga_G6FYGSYGZ4*MTY4NDg1NjcwMS4zNy4xLjE2ODQ4NTY5MDMuNTguMC4w"/> 
+    <p>  <a href="https://kenzie.com.br/quem-somos?utm_content=como-aprender-a-programar-2" > Quem somos</a> <a href="https://kenzie.com.br/curriculo?utm_content=como-aprender-a-programar-2"> Formação</a> <a href="https://kenzie.com.br/pagamento?utm_content=como-aprender-a-programar-2"> Pagamento</a> <a href="https://kenzie.com.br/parceiras?utm_content=como-aprender-a-programar-2">Para empresas</a> <a href="https://kenzie.com.br/faq?utm_content=como-aprender-a-programar-2"> Dúvidas</a>  <a href="https://kenzie.com.br/blog/?utm_content=como-aprender-a-programar-2"> Blog</a> <a href="https://kenzie.com.br/conteudos-gratuitos"> Conteúdo Gratuíto</a> </p>
+    <h1> <strong> BLOG DA KENZIE ACADEMY </strong</h1>
+       <div>
+        <br>
+        <h5> <strong> Mercado de trabalho</strong></h5>
+        <p> Curso de Programação: Kenzie é a melhor opção do Brasil</p>
+        <p> Autor: <strong> <i>Bruno Kriger</i></strong></p>
+        <a href="https://kenzie.com.br/blog/melhor-curso-de-programacao/">Saiba mais</a>
+       </div>
+    </br>
+    <div>
+        <br>
+        <h5> <strong>Programação</strong></h5>
+        <p>O que é Python, para que serve e porque aprender?</p>
+        <p> Autor> <strong> <i>Daniel Kriger</i></strong></p>
+        <a href="https://kenzie.com.br/blog/o-que-e-python/"> Saiba mais</a>
+        
+    </div>
+</br>
+<div>
+    <h5><strong>Tecnologia</strong></h5>
+    <p> Ciência da Computação, o que é, grade currícular e como aprender.</p>
+    <p> Autor: <strong> <i>Bruno Rovenda</i></strong></p>
+    <a href="https://kenzie.com.br/blog/ciencia-computacao/">Saiba mais</a>
+
+</div>
+</br>
+
+<div>
+    <h5><strong>Curso gratuíto</strong></h5>
+    <p>Curso gratuíto de programação: descubra onde e como fazer!</p>
+    <p> Autor> <strong> <i> Bruno Kriger</i></strong></p>
+    <a href="https://kenzie.com.br/blog/curso-gratuito-de-programacao/">Saiba mais.</a>
+</div>
